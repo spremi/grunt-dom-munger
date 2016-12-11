@@ -9,7 +9,7 @@ Use this task to read and transform your HTML documents.  Typical use cases incl
 * Add, update, or remove any DOM elements for any reason.
 
 ## Getting Started
-This plugin requires Grunt `~0.4.1` and Node `>=0.8`.
+This plugin requires Grunt `~1.0.0` and Node `>=0.8`.
 
 ```shell
 npm install grunt-dom-munger --save-dev
